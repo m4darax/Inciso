@@ -27,7 +27,7 @@ if ($ip_vpn.length -eq "0") {
 }else {
     $null
 }
-
+#
 #Function Test-ADAuthentication { 
 #    param($username,$password)
 #    #$password = $password.Password
